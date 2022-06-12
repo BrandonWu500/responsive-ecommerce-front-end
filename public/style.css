@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button,
+label {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
