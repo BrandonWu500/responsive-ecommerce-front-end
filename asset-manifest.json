@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsive-ecommerce-front-end/static/css/main.ec4aafec.css",
+    "main.js": "/responsive-ecommerce-front-end/static/js/main.b1107e11.js",
+    "index.html": "/responsive-ecommerce-front-end/index.html",
+    "main.ec4aafec.css.map": "/responsive-ecommerce-front-end/static/css/main.ec4aafec.css.map",
+    "main.b1107e11.js.map": "/responsive-ecommerce-front-end/static/js/main.b1107e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec4aafec.css",
+    "static/js/main.b1107e11.js"
+  ]
+}
