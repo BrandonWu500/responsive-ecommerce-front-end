@@ -9,7 +9,7 @@ import ScrollToTop from './ScrollToTop';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/responsive-ecommerce-front-end">
       <ScrollToTop>
         <Routes>
           <Route path="/" element={<Home />} />
